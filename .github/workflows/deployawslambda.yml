@@ -39,4 +39,4 @@ jobs:
       uses: appleboy/lambda-action@v0.0.4
       with:
         function_name: githubdemo
-        zip_file: bundle.zip
+        zip_file: lamda_handler.py
